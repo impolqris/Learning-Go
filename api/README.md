@@ -1,0 +1,2 @@
+# Info about this Project
+This project is a mini project I did to get a fundamental understanding of how to use a framework in order to interact with an API using Golang. You can make HTTP requests (using curl or another CLI command) in order to get all the books information, get a certain book's information, check out a book, return a book, and add new books following my struct. 
